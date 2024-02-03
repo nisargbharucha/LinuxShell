@@ -1,3 +1,8 @@
+/*
+Nisarg Bharucha - 100820217
+Shiv Patel - 100818727  
+Joshua Cardoz - 100827231
+*/
 #ifndef MYSHELL_H
 #define MYSHELL_H
 

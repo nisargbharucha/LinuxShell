@@ -1,3 +1,8 @@
+/*
+Nisarg Bharucha - 100820217
+Shiv Patel - 100818727  
+Joshua Cardoz - 100827231
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
