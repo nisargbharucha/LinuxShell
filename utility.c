@@ -1,4 +1,4 @@
-#include "myshell.h";
+#include "myshell.h"
 
 void printCurrentDirectory() {
     char s[100];
