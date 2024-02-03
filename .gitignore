@@ -1,0 +1,6 @@
+myshell
+myshell.o
+utility.o
+./myshell: myshell.o utility.o
+        gcc -o myshell myshell.o utility.o
+./vscode
